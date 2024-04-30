@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387770855728",
+    "project_id": "fir-proyect-d4328",
+    "storage_bucket": "fir-proyect-d4328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387770855728:android:3bccc5138f3ab2e67758f5",
+        "android_client_info": {
+          "package_name": "enrique.chavarria.registroyloginfirebaseenrique"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ze6v3aUcGzhSi3oo8qSpi9ZJqatpD5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
